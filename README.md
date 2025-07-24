@@ -38,11 +38,11 @@
 
 ## 🧠 Technologies Used
 
-- **🧠 AI Models:** YOLOv5 (Object Detection), Tesseract (OCR), NLP (Speech-to-Text / Text-to-Speech)
-- **🌐 Communication:** Bluetooth Low Energy (BLE), GPS module
+- **🧠 AI Models:** YOLOv8 (Object Detection), Tesseract (OCR), NLP (Speech-to-Text / Text-to-Speech)
+- **🌐 Communication:** Bluetooth Low Energy (BLE)
 - **🔊 Audio Feedback:** Bone conduction speakers
-- **📷 Sensors:** LiDAR, Camera module, Ultrasonic sensors (optional)
-- **📦 Hardware Platform:** Microcontroller (Raspberry Pi / ESP32), Rechargeable battery, Microphone
+- **📷 Sensors:** LiDAR, Pi camera, GPS
+- **📦 Hardware Platform:** Microcontroller (Raspberry Pi), Rechargeable battery, Microphone
 
 ---
 
@@ -86,7 +86,7 @@ Output:
 
 ## 📷 Media & Demos
 
-> Coming Soon: Demo Video + GIFs
+> Coming Soon: Demo Video 
 
 - ✅ Real-time object detection
 - ✅ Text-to-speech conversion of printed material
