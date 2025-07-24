@@ -1,4 +1,4 @@
-<img width="712" height="596" alt="image" src="https://github.com/user-attachments/assets/26563abc-85df-4c30-89de-47c81b6894c4" />## 👁️ GuardianEye – Smart Eyewear for the Visually Impaired
+## 👁️ GuardianEye – Smart Eyewear for the Visually Impaired
 
 > An AI-powered, sensor-integrated wearable device for obstacle detection, text recognition, navigation, and real-time assistance—built to empower visually impaired individuals with safe, independent mobility.
 
@@ -68,6 +68,8 @@
 > Coming Soon: Demo Video
 >
 > <img width="712" height="596" alt="image" src="https://github.com/user-attachments/assets/c3f15b91-6b9d-420d-8c33-24f2eec935c5" />
+<img width="712" height="596" alt="image" src="https://github.com/user-attachments/assets/26563abc-85df-4c30-89de-47c81b6894c4" />
+
 
 
 - ✅ Real-time object detection
