@@ -1,4 +1,4 @@
-## 👁️ GuardianEye – Smart Eyewear for the Visually Impaired
+<img width="712" height="596" alt="image" src="https://github.com/user-attachments/assets/26563abc-85df-4c30-89de-47c81b6894c4" />## 👁️ GuardianEye – Smart Eyewear for the Visually Impaired
 
 > An AI-powered, sensor-integrated wearable device for obstacle detection, text recognition, navigation, and real-time assistance—built to empower visually impaired individuals with safe, independent mobility.
 
@@ -49,10 +49,8 @@
 ## 🧰 System Architecture
 
 <img width="1076" height="1080" alt="Sitemap" src="https://github.com/user-attachments/assets/54c36cd9-ad2f-463c-971a-5022eb1b32ba" />
+![WhatsApp Image 2025-07-19 at 22 58 16_b30fc57b](https://github.com/user-attachments/assets/534d884c-b585-4151-a018-d6377e279c50)
 
-```
-
----
 
 ## 🎯 Use Cases
 
@@ -67,7 +65,10 @@
 
 ## 📷 Media & Demos
 
-> Coming Soon: Demo Video 
+> Coming Soon: Demo Video
+>
+> <img width="712" height="596" alt="image" src="https://github.com/user-attachments/assets/c3f15b91-6b9d-420d-8c33-24f2eec935c5" />
+
 
 - ✅ Real-time object detection
 - ✅ Text-to-speech conversion of printed material
