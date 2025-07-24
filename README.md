@@ -48,26 +48,7 @@
 
 ## 🧰 System Architecture
 
-```
-
-User Commands ──► Microphone
-│
-┌──────────────▼──────────────┐
-│      AI Processing Unit     │
-│  (YOLO, OCR, NLP, Sensor Fusion) │
-└──────────────┬──────────────┘
-│
-┌──────────────┐   ┌───────────────┐   ┌───────────────┐
-│ LiDAR Sensor │   │  Camera       │   │  GPS Module   │
-└────┬─────────┘   └────┬──────────┘   └────┬──────────┘
-▼                  ▼                  ▼
-Real-Time Obstacle   Text Recognition   Location Tracking
-Detection & Feedback  + Object ID       + Caregiver Alert
-
-Output:
-🔊 Voice Feedback (Multi-Language, TTS)
-📳 Haptic Vibrations
-🚨 Emergency Beep Alert
+<img width="1076" height="1080" alt="Sitemap" src="https://github.com/user-attachments/assets/54c36cd9-ad2f-463c-971a-5022eb1b32ba" />
 
 ```
 
@@ -129,8 +110,6 @@ This project is licensed under the [MIT License](LICENSE).
 Have feedback, ideas, or want to collaborate? Reach out at:
 
 📧 agarg3_be22@thapar.edu  
-🌐 [Thapar Institute of Engineering & Technology](https://www.thapar.edu)
-
 ---
 
 > _"Let’s build a world where everyone can see possibilities—even without sight."_ 🌍
